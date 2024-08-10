@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/josantoss/Leet_code/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/josantoss/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/josantoss/Leet_code/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/josantoss/Leet_code/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/josantoss/Leet_code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
