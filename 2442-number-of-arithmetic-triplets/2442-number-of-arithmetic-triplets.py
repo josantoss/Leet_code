@@ -1,12 +1,16 @@
 class Solution:
     def arithmeticTriplets(self, nums: List[int], diff: int) -> int:
-        sett = set(nums)
         count = 0
-        for n in nums:
-            if n + diff in sett and n + 2 * diff in sett:
+        j, k = 1, 2
+        for i in range(len(nums) - 2):
+            while j < len(nums) - 1 and nums[j] - nums[i] < diff:
+                j += 1
+            while k < len(nums) and nums[k] - nums[j] < diff:
+                k += 1
+            
+            if k < len(nums) and nums[j] - nums[i] == nums[k] - nums[j] == diff:
                 count += 1
-        
         return count
-        
+
 
         
