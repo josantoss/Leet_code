@@ -10,9 +10,7 @@ class Solution:
             return word
         else:
             left = word[:idx + 1]
-            reverse = ""
-            for i in range(len(left) - 1, -1, -1):
-                reverse += left[i]
+            reverse = left[::-1]
             
             result = reverse + word[idx + 1:]
             return result
