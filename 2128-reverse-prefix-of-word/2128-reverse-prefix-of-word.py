@@ -8,12 +8,11 @@ class Solution:
         
         if idx == -1:
             return word
-        else:
-            left = word[:idx + 1]
-            reverse = left[::-1]
             
-            result = reverse + word[idx + 1:]
-            return result
+        left = word[:idx + 1]
+        reverse = left[::-1]
+        
+        return reverse + word[idx + 1:]
 
 
 
