@@ -1,9 +1,16 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        split_str = s.split(" ")
-        result = []
-        ch = ""
-        for ch in split_str:
-            ch_1 =  ch[::-1]
-            result.append(ch_1)
-        return " ".join(result)
+        s_List = list(s)
+        left = 0
+        for right in range(len(s_List)):
+            if s_List[right] == " " or right == len(s_List)-1:
+                temp_l, temp_r = left, right-1
+                if right == len(s_List) -1 :
+                    temp_r = right
+                while temp_l< temp_r:
+                    s_List[temp_l], s_List[temp_r] = s_List[temp_r], s_List[temp_l]
+                    temp_l += 1
+                    temp_r -= 1
+                left = right + 1
+        return "".join(s_List)
+                    
