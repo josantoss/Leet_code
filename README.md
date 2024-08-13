@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/josantoss/Leet_code/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/josantoss/Leet_code/tree/master/0128-longest-consecutive-sequence) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/josantoss/Leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/josantoss/Leet_code/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/josantoss/Leet_code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/josantoss/Leet_code/tree/master/0011-container-with-most-water) |
 | [2128-reverse-prefix-of-word](https://github.com/josantoss/Leet_code/tree/master/2128-reverse-prefix-of-word) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/josantoss/Leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/josantoss/Leet_code/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/josantoss/Leet_code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/josantoss/Leet_code/tree/master/2128-reverse-prefix-of-word) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/josantoss/Leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Enumeration
 |  |
 | ------- |
