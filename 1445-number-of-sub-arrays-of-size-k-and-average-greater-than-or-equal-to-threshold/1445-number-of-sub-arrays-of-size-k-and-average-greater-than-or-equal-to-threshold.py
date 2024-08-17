@@ -5,8 +5,8 @@ class Solution:
         result =  sum(arr[0 : k])
         if (result)//k >= threshold:
             count += 1
-        print(result)
-        while ri < len(arr) and le < len(arr) - k +1:
+        
+        while ri < len(arr):
             result +=  arr[ri] - arr[le]
             if (result)//k >= threshold:
                 count += 1
