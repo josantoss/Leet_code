@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/josantoss/Leet_code/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/josantoss/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0594-longest-harmonious-subsequence](https://github.com/josantoss/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/josantoss/Leet_code/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/josantoss/Leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/josantoss/Leet_code/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/josantoss/Leet_code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/josantoss/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/josantoss/Leet_code/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Counting
 |  |
 | ------- |
