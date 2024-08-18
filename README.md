@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/josantoss/Leet_code/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/josantoss/Leet_code/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/josantoss/Leet_code/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/josantoss/Leet_code/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/josantoss/Leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1454-remove-palindromic-subsequences](https://github.com/josantoss/Leet_code/tree/master/1454-remove-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/josantoss/Leet_code/tree/master/2128-reverse-prefix-of-word) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/josantoss/Leet_code/tree/master/0005-longest-palindromic-substring) |
+| [0344-reverse-string](https://github.com/josantoss/Leet_code/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/josantoss/Leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1454-remove-palindromic-subsequences](https://github.com/josantoss/Leet_code/tree/master/1454-remove-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/josantoss/Leet_code/tree/master/2128-reverse-prefix-of-word) |
