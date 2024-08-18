@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/josantoss/Leet_code/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/josantoss/Leet_code/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/josantoss/Leet_code/tree/master/0128-longest-consecutive-sequence) |
+| [0287-find-the-duplicate-number](https://github.com/josantoss/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/josantoss/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/josantoss/Leet_code/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/josantoss/Leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/josantoss/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/josantoss/Leet_code/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/josantoss/Leet_code/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/josantoss/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/josantoss/Leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1454-remove-palindromic-subsequences](https://github.com/josantoss/Leet_code/tree/master/1454-remove-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/josantoss/Leet_code/tree/master/2128-reverse-prefix-of-word) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/josantoss/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/josantoss/Leet_code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/josantoss/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/josantoss/Leet_code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
