@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/josantoss/Leet_code/tree/master/0128-longest-consecutive-sequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/josantoss/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/josantoss/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/josantoss/Leet_code/tree/master/2442-number-of-arithmetic-triplets) |
 ## Union Find
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/josantoss/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/josantoss/Leet_code/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/josantoss/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/josantoss/Leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1454-remove-palindromic-subsequences](https://github.com/josantoss/Leet_code/tree/master/1454-remove-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/josantoss/Leet_code/tree/master/2128-reverse-prefix-of-word) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/josantoss/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/josantoss/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/josantoss/Leet_code/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Counting
