@@ -14,7 +14,7 @@ class Solution(object):
                 del nums[i]
         
         # Optionally extend with dashes
-        # nums.extend(['-'] * (len(nums) - len(hashSet)))
+        nums.extend(['-'] * (len(nums) - len(hashSet)))
         
         return len(nums)
 
