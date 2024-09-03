@@ -5,11 +5,8 @@ class Solution(object):
         :rtype: bool
         """
         x = list(str(x))
-        if len(x) ==0:
-            return False
+        if x == x[::-1]:
+            return True
         else:
-            if x == x[::-1]:
-                return True
-            else:
                 return False
         
