@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/josantoss/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/josantoss/Leet_code/tree/master/0005-longest-palindromic-substring) |
+| [0043-multiply-strings](https://github.com/josantoss/Leet_code/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/josantoss/Leet_code/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/josantoss/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/josantoss/Leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -109,4 +110,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/josantoss/Leet_code/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/josantoss/Leet_code/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/josantoss/Leet_code/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
