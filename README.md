@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/josantoss/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/josantoss/Leet_code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/josantoss/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/josantoss/Leet_code/tree/master/0039-combination-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/josantoss/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/josantoss/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/josantoss/Leet_code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/josantoss/Leet_code/tree/master/0043-multiply-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/josantoss/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
