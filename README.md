@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/josantoss/Leet_code/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/josantoss/Leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/josantoss/Leet_code/tree/master/2442-number-of-arithmetic-triplets) |
+| [2502-sort-the-people](https://github.com/josantoss/Leet_code/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/josantoss/Leet_code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/josantoss/Leet_code/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/josantoss/Leet_code/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/josantoss/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/josantoss/Leet_code/tree/master/2442-number-of-arithmetic-triplets) |
+| [2502-sort-the-people](https://github.com/josantoss/Leet_code/tree/master/2502-sort-the-people) |
 ## Union Find
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/josantoss/Leet_code/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/josantoss/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
+| [2502-sort-the-people](https://github.com/josantoss/Leet_code/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/josantoss/Leet_code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/josantoss/Leet_code/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1454-remove-palindromic-subsequences](https://github.com/josantoss/Leet_code/tree/master/1454-remove-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/josantoss/Leet_code/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/josantoss/Leet_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2502-sort-the-people](https://github.com/josantoss/Leet_code/tree/master/2502-sort-the-people) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/josantoss/Leet_code/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Enumeration
 |  |
