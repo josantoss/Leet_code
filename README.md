@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/josantoss/Leet_code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/josantoss/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/josantoss/Leet_code/tree/master/0128-longest-consecutive-sequence) |
+| [0164-maximum-gap](https://github.com/josantoss/Leet_code/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/josantoss/Leet_code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/josantoss/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/josantoss/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/josantoss/Leet_code/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/josantoss/Leet_code/tree/master/0164-maximum-gap) |
 | [0594-longest-harmonious-subsequence](https://github.com/josantoss/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [2502-sort-the-people](https://github.com/josantoss/Leet_code/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/josantoss/Leet_code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/josantoss/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/josantoss/Leet_code/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/josantoss/Leet_code/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
